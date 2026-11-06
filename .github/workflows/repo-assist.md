@@ -1,6 +1,6 @@
 ---
 description: |
-  A friendly repository assistant that runs regularly (twice a day by default) to assist maintainers.
+  A friendly repository assistant that runs regularly (weekly by default) to assist maintainers.
   Can also be triggered on-demand via '/repo-assist <instructions>' to perform specific tasks.
   - Labels and triages open issues
   - Investigates open issues and resolves, fixes, clarifies, or comments on them
